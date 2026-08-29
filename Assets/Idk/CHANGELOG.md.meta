@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7c0a8ca6fad8104419c3969e6b5f0911
+timeCreated: 1550765141
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140433
+  packageName: Open Files With Default App
+  packageVersion: 1.2.1
+  assetPath: Assets/Idk/CHANGELOG.md
+  uploadId: 545043

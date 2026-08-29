@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b6f760d3db8b66c4b8d24bfe6ad0f8f2
+timeCreated: 1550770550
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140433
+  packageName: Open Files With Default App
+  packageVersion: 1.2.1
+  assetPath: Assets/Idk/package.json
+  uploadId: 545043

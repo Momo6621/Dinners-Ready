@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 133340db419f4ad47abdc5ae57bfe986
+timeCreated: 1550412107
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140433
+  packageName: Open Files With Default App
+  packageVersion: 1.2.1
+  assetPath: Assets/Idk/Editor/OpenFilesWithDefaultApp.cs
+  uploadId: 545043
